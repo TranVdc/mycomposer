@@ -1,0 +1,18 @@
+{
+    "name": "tranvdc/mycomposer",
+    "description": "this is my first composer",
+    "type": "project",
+    "license": "no",
+    "autoload": {
+        "psr-4": {
+            "Mycomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tran Vdc",
+            "email": "tran@gmail.com"
+        }
+    ],
+    "require": {}
+}

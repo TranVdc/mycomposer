@@ -2,7 +2,7 @@
     "name": "tranvdc/mycomposer",
     "description": "this is my first composer",
     "type": "project",
-    "license": "no",
+    "license": "DT",
     "autoload": {
         "psr-4": {
             "Mycomposer\\": "src/"

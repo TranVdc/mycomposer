@@ -8,6 +8,7 @@
             "Mycomposer\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Tran Vdc",

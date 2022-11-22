@@ -2,7 +2,7 @@
     "name": "tranvdc/mycomposer",
     "description": "this is my first composer",
     "type": "project",
-    "license": "SPDX",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Mycomposer\\": "src/"
